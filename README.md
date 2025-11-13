@@ -1,11 +1,10 @@
 #  Hi there, I'm Favour!
 
-## ** About Me**
 I'm a highly analytical and results-driven professional operating at the intersection of **data analytics** and **People & Culture (Analyst)**. I'm passionate about transforming raw data into actionable insights that drive strategic decision-making, improve employee experience, and foster a high-performance culture. My focus is on using quantitative methods to solve complex, human-centric business challenges.
 
 ---
 
-## **📊 What I Do**
+## ** What I Do**
 I specialize in leveraging data to understand and optimize the **employee lifecycle** and overall business performance. My core activities include:
 * **People Analytics:** Analyzing HR data (e.g., turnover, engagement, hiring velocity, compensation) to identify trends, root causes, and forecasting future workforce needs.
 * **Business Intelligence:** Developing and maintaining insightful dashboards and reports for stakeholders across the organization.
@@ -14,7 +13,7 @@ I specialize in leveraging data to understand and optimize the **employee lifecy
 
 ---
 
-## **🧠 My Approach**
+## ** My Approach**
 My approach is characterized by a blend of technical rigor and empathetic understanding:
 1.  **Contextualization:** I start by deeply understanding the business problem or cultural challenge, ensuring the data analysis directly addresses a strategic need.
 2.  **Rigor:** I prioritize **data quality, integrity, and statistical soundness** in all my analysis.
@@ -23,7 +22,7 @@ My approach is characterized by a blend of technical rigor and empathetic unders
 
 ---
 
-## **⭐ Core Competencies**
+## ** Core Competencies**
 | Competency | Description |
 | :--- | :--- |
 | **People Analytics** | Workforce planning, sentiment analysis, retention modeling, and diversity/equity/inclusion (DEI) metrics. |
@@ -38,10 +37,8 @@ My approach is characterized by a blend of technical rigor and empathetic unders
 * **Programming Languages:** Python (Pandas, NumPy, Scikit-learn), R, SQL (Advanced)
 * **Data Visualization/BI Tools:** Tableau, Power BI, Looker Studio (formerly Google Data Studio), Matplotlib, Seaborn
 * **Databases & Warehousing:** PostgreSQL, MySQL, Google BigQuery, Snowflake
-* **Cloud Platforms:** [e.g., AWS, Azure, Google Cloud - *Specify your experience*]
-* **Statistical Software:** [e.g., SPSS, SAS, Excel (Advanced)]
-* **HRIS/Source Systems:** [e.g., Workday, SuccessFactors, BambooHR - *Specify systems you've used*]
-
+* **Cloud Platforms:** [e.g.,Google Cloud - *Specify your experience*]
+  
 ---
 
 ## **🤝 Soft Skills**
@@ -53,6 +50,6 @@ My approach is characterized by a blend of technical rigor and empathetic unders
 ---
 
 ## **📬 Contact Information**
-* **LinkedIn:** [Your LinkedIn Profile URL]
-* **Email:** [Your Professional Email Address]
-* **Portfolio/Website:** https://www.reddit.com/r/dataanalysis/comments/17if1lo/what_projects_did_you_have_on_your_portfolio_when/
+* **LinkedIn:** [www.linkedin.com/in/favour-ogundipe]
+* **Email:** [looluwa19@gmail.com]
+* **Portfolio/Website:** [https://www.reddit.com/r/dataanalysis/comments/17if1lo/what_projects_did_you_have_on_your_portfolio_when/](https://favour-personal-site.vercel.app/)
