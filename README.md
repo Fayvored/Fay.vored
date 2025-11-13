@@ -4,7 +4,7 @@ I'm a highly analytical and results-driven professional operating at the interse
 
 ---
 
-## ** What I Do**
+## What I Do
 I specialize in leveraging data to understand and optimize the **employee lifecycle** and overall business performance. My core activities include:
 * **People Analytics:** Analyzing HR data (e.g., turnover, engagement, hiring velocity, compensation) to identify trends, root causes, and forecasting future workforce needs.
 * **Business Intelligence:** Developing and maintaining insightful dashboards and reports for stakeholders across the organization.
@@ -13,7 +13,7 @@ I specialize in leveraging data to understand and optimize the **employee lifecy
 
 ---
 
-## ** My Approach**
+##  My Approach
 My approach is characterized by a blend of technical rigor and empathetic understanding:
 1.  **Contextualization:** I start by deeply understanding the business problem or cultural challenge, ensuring the data analysis directly addresses a strategic need.
 2.  **Rigor:** I prioritize **data quality, integrity, and statistical soundness** in all my analysis.
@@ -22,17 +22,18 @@ My approach is characterized by a blend of technical rigor and empathetic unders
 
 ---
 
-## ** Core Competencies**
+##  Core Competencies
 | Competency | Description |
 | :--- | :--- |
 | **People Analytics** | Workforce planning, sentiment analysis, retention modeling, and diversity/equity/inclusion (DEI) metrics. |
-| **Statistical Analysis** | Hypothesis testing, regression analysis, time-series forecasting, and A/B testing. |
 | **Data Modeling** | Designing efficient database schemas and data pipelines for reporting and analysis. |
 | **Stakeholder Management** | Communicating effectively with C-level executives, department heads, and non-technical end-users. |
+| **Data Analysis & Storytelling** |	Expert at performing deep-dive analysis to uncover trends, detect anomalies, and generate actionable, evidence-based insights. I craft clear, meaningful narratives around the data to drive decision-making and measure business impact.|
+| **SQL & Data Extraction** |	Experienced in writing complex SQL queries (joins, stored procedures, window functions) to efficiently extract, manipulate, and analyze large datasets from various relational databases, ensuring data integrity for reporting.|
 
 ---
 
-## **🛠️ Technical Skills**
+## Technical Skills
 
 * **Programming Languages:** Python (Pandas, NumPy, Scikit-learn), R, SQL (Advanced)
 * **Data Visualization/BI Tools:** Tableau, Power BI, Looker Studio (formerly Google Data Studio), Matplotlib, Seaborn
@@ -41,15 +42,12 @@ My approach is characterized by a blend of technical rigor and empathetic unders
   
 ---
 
-## **🤝 Soft Skills**
-* **Data Storytelling:** Translating analytical findings into clear business language and visual presentations.
+## 🤝 Soft Skills
+* **Communication & Data Storytelling:** Translating analytical findings into clear business language and visual presentations.
 * **Cross-functional Collaboration:** Working effectively with HR, Finance, Operations, and IT teams.
 * **Critical Thinking & Problem Solving:** Deconstructing ambiguous problems into solvable data questions.
 * **Empathy & Confidentiality:** Handling sensitive employee data with the highest level of discretion and ethical consideration.
 
 ---
 
-## **📬 Contact Information**
-* **LinkedIn:** [www.linkedin.com/in/favour-ogundipe]
-* **Email:** [looluwa19@gmail.com]
-* **Portfolio/Website:** [https://www.reddit.com/r/dataanalysis/comments/17if1lo/what_projects_did_you_have_on_your_portfolio_when/](https://favour-personal-site.vercel.app/)
+
