@@ -1,6 +1,6 @@
-# 👋 Hi, I'm [Favour]!
+#  Hi there, I'm Favour!
 
-## **💡 About Me**
+## ** About Me**
 I'm a highly analytical and results-driven professional operating at the intersection of **data analytics** and **People & Culture (Analyst)**. I'm passionate about transforming raw data into actionable insights that drive strategic decision-making, improve employee experience, and foster a high-performance culture. My focus is on using quantitative methods to solve complex, human-centric business challenges.
 
 ---
